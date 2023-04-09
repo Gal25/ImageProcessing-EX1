@@ -33,6 +33,4 @@ image processing facilities. This exercise covers:
 *gamma:*    
 function that performs gamma correction on an image with a given gamma
 
-![Alt text](images/4.png)
-
 Python 3.9.10
